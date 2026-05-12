@@ -1,0 +1,5 @@
+{
+  "name": "asxs-cors-proxy",
+  "main": "cloudflare-worker.js",
+  "compatibility_date": "2026-05-11"
+}
